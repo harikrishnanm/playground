@@ -1,1 +1,5 @@
-GET http://localhost:8088/
+GET http://localhost:8088/read
+
+###
+
+GET http://localhost:8088/add
